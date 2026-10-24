@@ -249,5 +249,4 @@ Based on the dashboard insights, the following strategic actions are recommended
 ## 👤 Author & Contact
 
 * **Developer:** Lakhveer Singh
-* **Role:** Senior Data Analyst / BI Engineer
 * **Tools Used:** Power BI Desktop, Power Query (M), DAX, Data Modeling, UI/UX Design
